@@ -40,7 +40,3 @@ current_obsessions:
   - Developing multi-agent error-log ingestion pipelines & full-stack apps
   - Hand-painting gradient denim, sculpting 35-inch paper-mâché forms & scripting
 
-<!---
-akanksha23056/akanksha23056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
