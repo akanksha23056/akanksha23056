@@ -12,9 +12,6 @@
 
 <!-- Social / Contact Badges (Update links with your actual handles!) -->
 <p>
-  <a href="https://x.com/loremlir" target="_blank">
-    <img src="https://img.shields.io/badge/@loremlir-09090b?style=for-the-badge&logo=x&logoColor=c084fc" alt="X" />
-  </a>
   <a href="mailto:akanksha@example.com">
     <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=e9d5ff" alt="Email" />
   </a>
